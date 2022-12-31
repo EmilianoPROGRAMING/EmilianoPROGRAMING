@@ -11,4 +11,6 @@ i want to help your company with your projects because i am a junior developer i
 -.[instagram](https://www.instagram.com/emi_merelez/)
 
 ## Skills:
-!.[C++](https://img.shields.io/badge/Developper-3DDC84?style=for-the-badge&logo=developper&logoColor=white&labelColor=101010)</br>
+![C++ Developper]
+![UNREAL ENGINE 4]
+![Unity]
