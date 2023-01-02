@@ -3,7 +3,7 @@
 <!--
 **EmilianoPROGRAMING/EmilianoPROGRAMING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-i want to help your company with your projects because i am a junior developer in c++ (1 year of experience), i worked with UNREAL ENGINE 4 and Unity. i am also a student of the unlp informatica. and finally i am starting a c# course.
+i want to help your company with your projects because i am a junior developer in c++ (1 year of experience), i had studied with UNREAL ENGINE 4 and Unity. i am also a student of the unlp informatica. and finally i am starting a c# course.
 
 ## Skills:
 ![C++](https://shields.io/badge/Developper-C++-3DOC84?style=for-the-badge&logo=Developper&logoColor=white&labelColor=101010)</br>
